@@ -32,3 +32,9 @@ p {
 section img {
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    .img-width {
+        width: 100%;
+    }
+}
