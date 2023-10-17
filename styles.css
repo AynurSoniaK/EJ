@@ -7,10 +7,10 @@ p {
 }
 
 .banner-header {
-    background-image: url(/img/banner-modified.png) ; 
-    height:60dvh; 
-    display:flex; 
-    justify-content: center; 
+    background-image: url(/img/banner-modified.png);
+    height: 60dvh;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
@@ -20,8 +20,8 @@ p {
 }
 
 .romans-container {
-    display:flex; 
-    justify-content: center; 
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
@@ -32,6 +32,7 @@ p {
 section img {
     width: 100%;
 }
+
 
 @media (max-width: 768px) {
     .img-width {
